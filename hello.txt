@@ -1,3 +1,6 @@
 hello
+<<<<<<< HEAD
 good morning
 good night
+=======
+>>>>>>> parent of ff4e553... add good morning
